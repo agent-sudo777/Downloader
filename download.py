@@ -9,7 +9,7 @@ os.system("apt install figlet")
 os.system("apt install jp2a")
 os.system("clear")
 print("\033[1;36;40m")
-print("This tool is created by b3rd%20mw01u for downloading audios and videos from YouTube")
+print("<+++++This tool is created by b3rd%20mw01u for downloading audios and videos from YouTube+++++>")
 os.system("figlet Downloader")
 
 print("\033[1;33;40m")
